@@ -17,6 +17,7 @@ Important Knowledge
 *   h1-h6 created by prefacing with corresponding number of hash signs
 *   Right caret makes block quotes
 *   Unordered lists can be made with asteriks, plus signs, or hyphens
+*   **Do not** use quotations around url when creating links
 
 ###Ordered lists are not hard at all
 1.  Write the number of the list item
@@ -26,9 +27,9 @@ Important Knowledge
 
 Useful Links
 ------------
-I learned Markdown basics at [Daring Fireball]("http://daringfireball.net/projects/markdown/basics")
+I learned Markdown basics at [Daring Fireball](http://daringfireball.net/projects/markdown/basics)
 
-Written in [Brackets]("http://brackets.io/")
+Written in [Brackets](http://brackets.io/)
 
 Conclusion
 ----------
